@@ -168,3 +168,4 @@ Your contributions are always welcome! Please have a look at the [contribution g
 Copyright (C) 2017-2020 HERE Europe B.V.
 
 See the [LICENSE](./LICENSE) file in the root of this project for license details.
+Trigger 1
