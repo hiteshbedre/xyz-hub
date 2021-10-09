@@ -48,7 +48,7 @@ public class ARN {
     return nonResourceParts[3];
   }
 
-  public String getAccountId() {
+  public String () {
     return nonResourceParts[4];
   }
 
